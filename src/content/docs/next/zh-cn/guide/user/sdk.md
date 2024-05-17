@@ -15,7 +15,7 @@ Maven 坐标
 <dependency>
     <groupId>com.alibaba.nacos</groupId>
     <artifactId>nacos-client</artifactId>
-    <version>${version}</version>
+    <version>${NACOS-VERSION}</version>
 </dependency>
 ```
 
